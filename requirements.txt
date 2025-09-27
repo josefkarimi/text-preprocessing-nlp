@@ -1,0 +1,8 @@
+datasets
+hazm
+dadmatools
+stanza
+nltk
+transformers
+sentencepiece
+sacrebleu
